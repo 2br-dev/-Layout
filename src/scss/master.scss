@@ -1,0 +1,14 @@
+// Include framework =====================================
+@import './framework/materialize';
+
+// Include parts =========================================
+@import './parts/vars';
+@import './parts/custom_grid';
+@import './parts/header';
+@import './parts/helpers';
+@import './parts/typography';
+@import './parts/footer';
+
+// Include entire pages ==================================
+@import './pages/main';
+@import './pages/facts';
